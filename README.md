@@ -8,9 +8,10 @@
 
 **English** | [中文](README_CN.md) | [🌐 Landing Page](https://muippt.github.io/mu-skill-hunter/)
 
-[![WeChat](https://img.shields.io/badge/muippt-07C160?logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/v1JSZvlN5fvbOOHvkvXEtA)
+[![WeChat](https://img.shields.io/badge/muippt-07C160?logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/YLtXENt_7WzO2DgJCFUtPA)
 [![Xiaohongshu](https://img.shields.io/badge/muippt-FF2442?logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/ESxtgUNMdl)
 [![Book](https://img.shields.io/badge/Book-Visual%20Team%20Management-BBDDE5?logo=bookstack&logoColor=white)](https://item.m.jd.com/product/14547345.html)
+[![mu-skillhub](https://img.shields.io/badge/mu--skillhub-9E95B7?logo=simpleicons&logoColor=white)](https://muippt.github.io/mu-skill-hub/)
 [![License](https://img.shields.io/github/license/muippt/mu-skill-hunter)](LICENSE)
 [![Version](https://img.shields.io/github/v/release/muippt/mu-skill-hunter)](https://github.com/muippt/mu-skill-hunter/releases)
 [![Stars](https://img.shields.io/github/stars/muippt/mu-skill-hunter)](https://github.com/muippt/mu-skill-hunter/stargazers)
@@ -171,7 +172,7 @@ If mu-skill-hunter helps you discover great skills, please consider giving it a 
 
 📚 Author of [*Visual Team Management*](https://item.m.jd.com/product/14547345.html). Clients include ByteDance, Tencent, Baidu, China Mobile, SMG, BOE…
 
-💡 [WeChat Official Account](https://mp.weixin.qq.com/s/v1JSZvlN5fvbOOHvkvXEtA) / [Xiaohongshu](https://xhslink.com/m/ESxtgUNMdl): muippt
+💡 [WeChat Official Account](https://mp.weixin.qq.com/s/YLtXENt_7WzO2DgJCFUtPA) / [Xiaohongshu](https://xhslink.com/m/ESxtgUNMdl): muippt
 
 ### 📄 License & Acknowledgments
 
