@@ -160,7 +160,7 @@ python3 scripts/scanner.py /path/to/external-skill --json
 
 If mu-skill-hunter helps you discover great skills, please consider giving it a star! ⭐
 
-[![Star History Chart](assets/star-history.svg)](https://www.star-history.com/?repos=muippt%2Fmu-skill-hunter&type=date)
+[![Star History Chart](assets/star-history.png)](https://www.star-history.com/?repos=muippt%2Fmu-skill-hunter&type=date)
 
 > Discover, audit, and install AI agent skills with confidence — 4 sources, 12 security rules, 1 curated selection model.
 
