@@ -155,11 +155,11 @@ python3 scripts/scanner.py /path/to/external-skill --json
 
 ---
 
-### ⭐ 给项目点 Star
+### ⭐ Star 趋势
 
 如果 mu-skill-hunter 帮你发现了好用的 Skill，欢迎给个 Star！⭐
 
-[![GitHub Stars](https://img.shields.io/github/stars/muippt/mu-skill-hunter?style=flat&logo=github&label=Stars)](https://github.com/muippt/mu-skill-hunter/stargazers)
+[![Star History Chart](https://api.star-history.com/svg?repos=muippt/mu-skill-hunter&type=Date)](https://star-history.com/#muippt/mu-skill-hunter&Date)
 
 > 四源发现、12条安全规则、1套三维严选——放心搜索、审查、安装 AI Agent Skill。
 
